@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2019-06-08T01:31:15Z" finished-at="2019-06-08T01:31:15Z">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="19158" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:01Z">
+    <groups>
+    </groups>
+    <test name="TestB3" duration-ms="15003" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:30:57Z">
+      <class name="suiteB.TestB3">
+        <test-method status="PASS" signature="testB3()[pri:0, instance:suiteB.TestB3@3834d63f]" name="testB3" duration-ms="12766" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteB.TestB3@3834d63f]" name="quit" is-config="true" duration-ms="2206" started-at="2019-06-08T01:30:55Z" finished-at="2019-06-08T01:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteB.TestB3 -->
+    </test> <!-- TestB3 -->
+    <test name="TestB" duration-ms="14897" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:30:57Z">
+      <class name="suiteB.TestB">
+        <test-method status="PASS" signature="testB()[pri:0, instance:suiteB.TestB@591f989e]" name="testB" duration-ms="13693" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteB.TestB@591f989e]" name="quit" is-config="true" duration-ms="1175" started-at="2019-06-08T01:30:56Z" finished-at="2019-06-08T01:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteB.TestB -->
+    </test> <!-- TestB -->
+    <test name="TestB2" duration-ms="19158" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:01Z">
+      <class name="suiteB.TestB2">
+        <test-method status="PASS" signature="testB2()[pri:0, instance:suiteB.TestB2@33a10788]" name="testB2" duration-ms="18982" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteB.TestB2@33a10788]" name="quit" is-config="true" duration-ms="147" started-at="2019-06-08T01:31:01Z" finished-at="2019-06-08T01:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteB.TestB2 -->
+    </test> <!-- TestB2 -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="32644" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:15Z">
+    <groups>
+    </groups>
+    <test name="TestA2" duration-ms="14883" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:30:57Z">
+      <class name="suiteA.TestA2">
+        <test-method status="PASS" signature="testA2()[pri:0, instance:suiteA.TestA2@73035e27]" name="testA2" duration-ms="13411" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteA.TestA2@73035e27]" name="quit" is-config="true" duration-ms="1443" started-at="2019-06-08T01:30:56Z" finished-at="2019-06-08T01:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteA.TestA2 -->
+    </test> <!-- TestA2 -->
+    <test name="TestA3" duration-ms="18981" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:01Z">
+      <class name="suiteA.TestA3">
+        <test-method status="PASS" signature="testA3()[pri:0, instance:suiteA.TestA3@25618e91]" name="testA3" duration-ms="18897" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteA.TestA3@25618e91]" name="quit" is-config="true" duration-ms="54" started-at="2019-06-08T01:31:01Z" finished-at="2019-06-08T01:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteA.TestA3 -->
+    </test> <!-- TestA3 -->
+    <test name="TestA" duration-ms="32644" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:15Z">
+      <class name="suiteA.TestA">
+        <test-method status="PASS" signature="testA()[pri:1, instance:suiteA.TestA@12bc6874]" name="testA" duration-ms="19444" started-at="2019-06-08T01:30:42Z" finished-at="2019-06-08T01:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="testAAA()[pri:2, instance:suiteA.TestA@12bc6874]" name="testAAA" duration-ms="13101" started-at="2019-06-08T01:31:02Z" finished-at="2019-06-08T01:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAAA -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteA.TestA@12bc6874]" name="quit" is-config="true" duration-ms="70" started-at="2019-06-08T01:31:15Z" finished-at="2019-06-08T01:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteA.TestA -->
+    </test> <!-- TestA -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
